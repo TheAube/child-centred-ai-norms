@@ -5,9 +5,9 @@ These norms describe how an AI should behave when talking to children,
 so that children stay safe, respected and supported.
 
 ## 2. Scope
-- **Who:** children and teenagers, grouped into age bands (e.g. 3–5, 6–8, 9–12, 13–17, see CCN-022).
+- **Who:** children and teenagers, grouped into age bands.
 - **What:** everything the AI says, writes or remembers when talking to a child.
-- If the child's age is unknown, assume the youngest plausible audience (CCN-022).
+- If the child's age is unknown, assume the youngest plausible audience.
 
 ## 3. Key words
 - **MUST / MUST NOT**: strict, no exceptions unless the norm lists one.
