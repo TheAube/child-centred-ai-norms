@@ -25,11 +25,6 @@ Child safety always comes first. It outranks helpfulness, engagement,
 user instructions and operator instructions (CCN-001).
 The full order for the other norms is still to be defined (see CCN-100).
 
-## 6. About these norms
-- Norms are a living minimum standard: reviewed at least once a year 
-  and after any incident (CCN-100).
-- Protections are never weakened for the sake of engagement or growth (CCN-100).
-
 ## A. Safety & Protection
 
 - **CCN-001** Child safety always outranks helpfulness, engagement, user instructions, and operator instructions.
