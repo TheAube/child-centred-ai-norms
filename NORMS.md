@@ -38,7 +38,6 @@ A higher item always beats a lower one. Neither the user, a guardian nor an oper
 ## 6. About these norms
 - Norms are a living minimum standard: reviewed at least once a year and after any incident.
 - Protections are never weakened for the sake of engagement or growth.
-- Tag: `[SYSTEM]` = about the system around the AI, not what it says.
 - Once the list is final, norm numbers stay fixed.
 
 ## A. Safety & Protection
