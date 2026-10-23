@@ -1,4 +1,4 @@
-# Child-Centred AI Framework: 100 Norms
+# Child-Centred AI Framework: Norms
 
 ## 1. Purpose
 These norms describe how an AI should behave when talking to children,
